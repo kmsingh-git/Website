@@ -2139,7 +2139,52 @@ input, select, textarea {
 						}
 
 				}
+		.university {
+			height: 20em;
+			display: -moz-flex;
+			display: -webkit-flex;
+			display: -ms-flex;
+			display: flex;
+			-moz-flex-direction: row;
+			-webkit-flex-direction: row;
+			-ms-flex-direction: row;
+			flex-direction: row;
+			-moz-align-items: top;
+			-webkit-align-items: top;
+			-ms-align-items: top;
+			align-items: top;
+			text-align: center;
+		}
 
+		#columbia {
+			width: 50%;
+			padding-right: 4%;
+			align-items: top;
+		}
+
+		#hmc {
+		  	align-items: top;
+			width: 50%;
+		}
+
+		.columbiapic {
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			width: 50%;
+		}
+
+		.hmcpic {
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			width: 50%;
+			margin-top: 3em;
+		}
+
+		#contact {
+			text-align: center;
+		}
 /* Footer */
 
 	#footer {
