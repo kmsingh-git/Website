@@ -1,3 +1,1 @@
-Personal Website: [website]
-
-[website]:www.kanakmsingh.com
+Personal Website: https://kanakmsingh.com/
