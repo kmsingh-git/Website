@@ -1,2 +1,1 @@
-Personal Website
-kanakmsingh.com
+Personal Website. Link: (www.kanakmsingh.com)
