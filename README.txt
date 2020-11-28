@@ -1,1 +1,3 @@
-Personal Website. Link: [www.kanakmsingh.com]
+Personal Website: [website]
+
+[website]:www.kanakmsingh.com
